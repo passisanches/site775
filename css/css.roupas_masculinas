@@ -1,0 +1,388 @@
+@import url("https://fonts.googleapis.com/css?
+family=Arya:400, 708 |Monda:78") ;
+
+.masculino {
+align-items: flex-start;
+background-color: var (--black);
+border: 1px none;
+display: flex;
+height: 1024px;
+width: 144epx;
+
+hidden,
+
+-hidden * {
+pointer-events: none;
+visibility: hidden;
+
+}
+
+.flex-col {
+
+align-items: center;
+
+background-image: url(https://anima-
+uploads .s3.amazonaws .com/projects/647e259a1b932562f24
+45.png) ;
+
+background-position: 56% 56%;
+
+background-size: cover;
+
+display: flex;
+
+flex-direction: column;
+
+min-height: 1624px;
+
+width: 1440px :
+}
+
+.component-container {
+margin-right: 138px;
+margin-top: 35px;
+min-width: 1154px;
+
+}
+
+.masculino .component {
+align-items: flex-start;
+display: flex;
+
+i
+
+.component-12 {
+background-color: var (--white);
+cursor: pointer;
+min-width: 125px;
+
+i
+
+.overlap-group {
+align-items: flex-start;
+background-color: var (--alto-2);
+display: flex;
+height: 58px;
+min-width: 125px;
+padding: 6px 11px;
+}
+
+.carrinho {
+letter-spacing: 6;
+line-height: normal;
+min-height: 43px;
+min-width: 103px;
+text-align: center;
+
+.component-14 {
+background-color: var (--white);
+cursor: pointer;
+margin-left: 188px;
+min-width: 125px;
+
+}
+
+.component-1 {
+background-color: var (--white);
+cursor: pointer;
+margin-left: 20px;
+min-width: 121px;
+
+.overlap-group-1 {
+align-items: flex-star:
+background-color: var (
+display: flex;
+height: 58px;
+min-width: 121px;
+padding: 6px 12px;
+i
+
+comprar {
+letter-spacing: 6;
+line-height: normal;
+min-height: 43px;
+min-width: 97px;
+text-align: center;
+
+.component-15 {
+background-color: var (--white);
+cursor: pointer;
+margin-left: 166px;
+min-width: 125px;
+
+i
+
+.component-13 {
+background-color: var (--white);
+cursor: pointer;
+
+margin-left: 28px;
+min-width: 121px;
+
+i
+
+-flex-row {
+align-items: flex-start;
+display: flex;
+
+gap: 15px;
+
+height: 59px;
+min-width: 822px;
+
+.roupa-feminina (
+align-items: flex-start;
+align-self: flex-end;
+cursor: pointer;
+display: flex;
+height: 58px;
+min-width: 218px;
+
+.roupa-feminina-1 (
+letter-spacing: 6;
+line-height: normal;
+margin-top: -1px;
+min-height: 58px;
+min-width: 218px;
+text-align: center;
+
+.frame-2 (
+align-items: flex-start;
+cursor: pointer;
+display: flex:
+height: 58px;
+min-width: 233px;
+i
+
+.roupa-masculina {
+letter-spacing: 6;
+line-height: normal;
+margin-top: -1px;
+min-height: 58px;
+min-width: 233px;
+text-align: center;
+
+.calçados {
+align-items: flex-start;
+cursor: pointer;
+display: flex;
+height: 58px;
+min-width: 123px;
+
+.calçados-1 {
+letter-spacing: 6;
+line-height: normal;
+margin-top: -1px;
+min-height: 58px;
+min-width: 123px;
+text-align: center;
+
+}
+
+.menu-principal {
+align-items: flex-start;
+align-self: flex-end;
+display: flex;
+height: 58px;
+min-width: 203px;
+
+.menu-principal-1 {
+letter-spacing: 6;
+line-height: normal;
+margin-top: -1px;
+min-height: 58px;
+min-width: 203px;
+text-align: center;
+
+flex-row-1 {
+align-items: flex-end;
+display: flex;
+height: 749px;
+margin-top: 31px;
+min-width: 1292px;
+}
+
+.flex-col-3 {
+
+gap: 33px;
+
+margin-left: 30px;
+
+min-height: 535px;
+
+width: 407px;
+
+}
+
+.masculino .flex-col-4 {
+
+align-items: flex-start;
+
+display: flex;
+
+flex-direction: column;
+
+}
+
+.camiseta-r0000-1 {
+
+letter-spacing: 0;
+
+line-height: normal;
+
+margin-left: 3px;
+
+min-height: 130px;
+
+min-width: 145px;
+
+text-align: center;
+
+}
+
+.overlap-group8 {
+
+align-items: flex-start;
+
+background-color: var(--pink-swan);
+
+display: flex;
+
+height: 372px;
+
+min-width: 407px;
+padding: 5px 3px;
+}
+
+.image-36 {
+
+}
+
+padding: 5px 3px;
+
+}
+
+.flex-col-1 {
+
+gap: 33px;
+
+min-height: 535px;
+
+width: 410px;
+
+height: 360px;
+
+object-fit: cover;
+
+width: 399px;
+
+}
+
+.camiseta-r0000 {
+
+letter-spacing: 0;
+
+line-height: normal;
+
+min-height: 130px;
+
+min-width: 145px;
+
+text-align: center;
+
+.overlap-group9 {
+
+background-color: var(--pink-swan);
+
+background-image: url(https://anima-
+
+uploads.s3.amazonaws.com/projects/647e259a1b932562f24
+
+38@2x.png);
+}
+
+.flex-col-2 {
+
+margin-left: 9px;
+
+min-height: 749px;
+
+width: 436px;
+
+}
+
+background-position: 50% 50%;
+
+background-size: cover;
+
+height: 372px;
+
+margin-left: 3px;
+
+width: 407px;
+
+.moletom-r0000 {
+
+letter-spacing: 0;
+
+line-height: normal;
+
+margin-left: 43px;
+
+margin-top: 33px;
+
+min-height: 130px;
+
+min-width: 145px;
+
+text-align: center;
+
+}
+
+.overlap-group7 {
+
+align-self: flex-end;
+
+background-color: var(--pink-swan);
+
+background-image: url(https://anima-
+uploads.s3.amazonaws.com/projects/647e259a1b932562f24
+
+background-position: 50% 50%;
+
+background-size: cover;
+
+37@2x.png);
+
+}
+
+height: 372px;
+
+margin-top: 127px;
+
+width: 407px;
+
+. roupas-masculinas {
+
+color: var(--white);
+
+font-family: var(--font-family-arya);
+
+font-size: var(--font-size-m) ;
+
+font-weight: 400;
+
+}
+
+letter-spacing: 0;
+
+line-height: normal;
+
+min-height: 87px;
+
+min-width: 420px;
+
+text-align: center;
+
+text-decoration: underline;
+}

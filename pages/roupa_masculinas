@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <title>775</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+<div class="feminino screen">
+	<div class="flex-col">
+		<div class="flex-row">
+			<div class="menu-principal">
+				<div class="menu-principal-1 arya-normal-white-32px">Menu Principal</div>
+			</div>
+		</div>
+		<div class="frame-1">
+			<div class="roupa-masculina arya-normal-white-32px">Roupa Masculina</div>
+		</div>
+		<a href="feminino.html" class="align-self-flex-end">
+			<div class="roupa-feminina">
+				<div class="roupa-feminina-1 arya-normal-white-32px">Roupa Feminina</div>
+			</div>
+		</a>
+		<div class="calados">
+			<div class="calçados-1 arya-normal-white-32px">Calçados</div>
+		</div>
+	</div>
+	<div class="flex-ron-1">
+		<div class="flex-col-1 flex-col-4">
+			<div class="caniseta-reeeo arya-normal-white-36px">Camiseta<br>17800, 00</div>
+		</div>
+		<div class="flex-col-2 flex-col-4">
+			<h1 class="roupas-femininas">Roupas Femininas</h1>
+			<div class="overlap-group7"></div>
+			<div class="vestido-rgeeo arya-normal-white-36px">Vestido<br>17800, 00</div>
+		</div>
+		<div class="flex-col-3 flex-col-4">
+			<div class="overlap-group8"></div>
+			<div class="c-onjunto-re@ed arya-normal-white-36px">Conjunto<br>17800, 00</div>
+		</div>
+	</div>
+	<div class="component-container component">
+		<div class="component-12 component">
+			<div class="overlap-group">
+				<div class="carrinho arya-normal-black-24px">Carrinho</div>
+			</div>
+		</div>
+		<div class="component-1 component">
+			<div class="overlap-group-1">
+				<div class="comprar arya-normal-black-24px">Comprar</div>
+			</div>
+		</div>
+		<div class="component-14 component">
+			<div class="overlap-group">
+				<div class="carrinho arya-normal-black-24px">Carrinho</div>
+			</div>
+		</div>
+		<div class="component-1 component">
+			<div class="overlap-group-1">
+				<div class="comprar arya-normal-black-24px">Comprar</div>
+			</div>
+		</div>
+		<div class="component-16 component">
+			<div class="overlap-group">
+				<div class="carrinho arya-normal-black-24px">Carrinho</div>
+			</div>
+		</div>
+		<div class="component-1 component">
+			<div class="overlap-group-1">
+				<div class="comprar arya-normal-black-24px">Comprar</div>
+			</div>
+		</div>
+	</div>
+</div>
